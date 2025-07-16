@@ -40,5 +40,5 @@ Passionnée par l'apprentissage automatique, la visualisation des données et le
 
 ## 🌐 Retrouvez-moi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/awa-karamoko-005b62224/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/awa-karamoko-005b62224/)
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@ton-pseudo)
