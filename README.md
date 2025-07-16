@@ -1,10 +1,10 @@
-# 👩‍💻 Aminata [Ton Nom Complet]
+# 👩‍💻Awa KARAMOKO
 
-**Data Scientist | Analyste de données | Passionnée d'IA**
+**Data Scientist/Engineer  | Analyste de données | Passionnée d'IA**
 
 ## 🚀 À propos de moi
 
-Étudiante en Master [Nom du Master] à [Nom de l’université].  
+Étudiante en Master Statistique et Informatique pour la Science des Données (SISE) à l'Université Lumière Lyon 2.  
 Je transforme les données en informations exploitables à travers des outils de data science et d’IA.  
 Passionnée par l'apprentissage automatique, la visualisation des données et les projets à impact.
 
@@ -14,18 +14,18 @@ Passionnée par l'apprentissage automatique, la visualisation des données et le
 
 - 📊 Analyse et visualisation de données
 - 🧠 Développement de modèles de machine learning
-- 🌍 Projets liés à [ex: l’agriculture, la finance, l’éducation…]
+- 🌍 Transformez des données désordonnées en histoires significatives
 - 🔍 Exploration de nouvelles technos
 
 ---
 
 ## 🛠️ Pile technologique
 
-- **Science des données** : Python, R, Scikit-learn, Pandas
+- **Science des données** : Python, R, Scikit-learn, Pandas, Machine Learning, Deep Learning
 - **Big Data** : Hadoop, Spark
 - **Visualisation** : Power BI, Tableau, Matplotlib, Seaborn
-- **Outils** : Git, Docker, Jupyter
-- **Cloud** : Google Cloud, Azure
+- **Outils** : Git, Docker, Jupyter, ETL
+- **Cloud** : Google Cloud, Azure ML, Microsoft Fabric
 
 ---
 
